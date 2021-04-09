@@ -1,5 +1,7 @@
 # Partial Application Syntax for ECMAScript
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 This proposal introduces a new syntax using the `?` token in an argument list which allows you to 
 partially apply an argument list to a call expression by acting as a placeholder for an argument.
 
